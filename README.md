@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Mohan-1802/Mohan-1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 A full-stack E-commerce platform using React and Node.js.<br>Open-source frontend projects or UI/UX design systems.<br>Mastering MERN Stack and database optimization.<br>DSA, TypeScript and Next.js.<br>CSS Grid, JavaScript fundamentals, or the best coffee shops in town.<br>I can solve a Rubik's cube in under 2 minutes (or I’ve spent 48 hours debugging a single semicolon).
 
 
